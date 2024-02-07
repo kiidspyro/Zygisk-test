@@ -24,3 +24,7 @@ Standalone implementation of Zygisk, providing Zygisk API support for KernelSU a
 `PROCESS_ON_DENYLIST` cannot be flagged correctly for isolated processes on Magisk DenyList currently.
 
 Zygisk Next only guarantees the same behavior of Zygisk API, but will NOT ensure Magisk's internal features.
+
+## Credits
+https://github.com/Dr-TSNG/ZygiskNext
+
